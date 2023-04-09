@@ -3,7 +3,7 @@ import { Button } from "../compontents/Button"
  * This default export is the actual story
  */
 export default {
-    title: "Button",
+    title: "Components/Button",
     component:Button,
     argTypes:{ handleClick: {action: "handleClick"}} // passing function
 }
